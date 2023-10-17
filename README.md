@@ -55,3 +55,4 @@ CHECK UPDATE COMPLETE method in litelement for api
 updated is method, when template is being updated
 
 - `` => back ticks - comillas invertidas
+- git push --set-upstream origin lesson_1
