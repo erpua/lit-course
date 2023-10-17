@@ -54,4 +54,4 @@ CHECK UPDATE COMPLETE method in litelement for api
 
 updated is method, when template is being updated
 
-- `` => comillas invertidas
+- `` => back ticks - comillas invertidas
